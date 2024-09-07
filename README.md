@@ -28,11 +28,6 @@ I'm a tech exhaust working on different technologies like app dev , web dev , ge
 [![](https://visitcount.itsvg.in/api?id=geeksahilthakur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![100hieght](https://github.com/user-attachments/assets/6a0a62f8-c8f4-43d0-80b1-420a790a7c75)
-
-<style>
-*{color:red;}
-</style>
 
 ![70geekshail](https://github.com/user-attachments/assets/0cf6d502-e890-4e37-a914-b8730d729c5e)
 
